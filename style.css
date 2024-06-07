@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* outline: 1px solid red; */
+}
+nav{
+    background-color: gray;
+}
+.button button{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    width: 40px;
+}
+#hr1{
+    margin-left: 30%;
+    margin-right: 30%;
+    color: red;
+}
+#hr2{
+    margin-left: 32%;
+    margin-right: 32%;
+    color: red;
+}
+#hr3{
+    margin-left: 32%;
+    margin-right: 32%;
+    color: red;
+}
+#hr4{
+    margin-left: 30%;
+    margin-right: 30%;
+    color: red;
+}
+#ingredients{
+    margin-left: 10%;
+}
+#hr6{
+    margin-left: 30%;
+    margin-right: 30%;
+    color: red;
+}
+#hr7{
+    margin-left: 32%;
+    margin-right: 32%;
+    color: red;
+}
+#hr8{
+    margin-left: 32%;
+    margin-right: 32%;
+    color: red;
+}
+#hr9{
+    margin-left: 30%;
+    margin-right: 30%;
+    color: red;
+}
+#my-own h5{
+    font-size: medium;
+    margin-bottom: 30px;
+}
+#my-own a{
+    font-size: small;
+}
+footer{
+    padding-left: 50px;
+    padding-right: 100px;
+}
+img{
+    width:70px;
+}
+nav{
+    background-color: black;
+}
+.project{
+    width: 40px;
+}
+.mix{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 0%;
+}
+.title{
+    display: flex;
+    flex-wrap: row;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    
+}
+
+.week{
+    background-color: rgb(225, 230, 232);
+    text-align: center;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.text{
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+    margin-right: 50px;
+    font-size: medium;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  rgb(252, 211, 211);
+    height: 50px;
+}
+.header img{
+    width: 90px;
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.text a:hover{
+    background-color: white;
+    font-style: normal;
+    color: black;
+    width: fit-content;
+    height: 3vh;
+    padding-top: 3vh;
+    text-align: center;
+    padding-top: 0;
+    border-radius: 3px;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 300px;
+    height: 350px;
+    justify-content: center;
+    margin-left: 38%;
+    border: none;
+    margin-top: 20px;
+}
+fieldset{
+    border: none;
+    height: 350px;
+}
+.paragraph{
+    text-align: center;
+    color: black;
+}
+input{
+    margin-top: 30px;
+    width: 220px;
+}
+textarea{
+    margin-left: 0;
+    width: 220px;
+    margin-top: 30px;
+}
+.bits{
+    text-align: center;
+    margin-top: 20px;
+}
+.weak{
+    margin-left: 13%;
+}
+input[type='submit']{
+    height: 5vh;
+    background-color: rgb(226, 102, 102);
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+.status{
+    background-color: blue;
+}
+
